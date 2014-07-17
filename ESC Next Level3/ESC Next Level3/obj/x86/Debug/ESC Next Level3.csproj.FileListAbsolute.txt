@@ -1,0 +1,11 @@
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level3\ESC Next Level3\bin\Debug\ESC Next Level3.exe
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level3\ESC Next Level3\bin\Debug\ESC Next Level3.pdb
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level3\ESC Next Level3\obj\x86\Debug\MainWindow.baml
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level3\ESC Next Level3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level3\ESC Next Level3\obj\x86\Debug\App.g.cs
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level3\ESC Next Level3\obj\x86\Debug\ESC Next Level3_MarkupCompile.cache
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level3\ESC Next Level3\obj\x86\Debug\ESC Next Level3.g.resources
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level3\ESC Next Level3\obj\x86\Debug\ESC_Next_Level3.Properties.Resources.resources
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level3\ESC Next Level3\obj\x86\Debug\ESC Next Level3.csproj.GenerateResource.Cache
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level3\ESC Next Level3\obj\x86\Debug\ESC Next Level3.exe
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level3\ESC Next Level3\obj\x86\Debug\ESC Next Level3.pdb

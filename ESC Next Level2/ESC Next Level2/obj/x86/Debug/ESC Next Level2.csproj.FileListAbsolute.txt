@@ -1,0 +1,24 @@
+C:\Users\Hugo\AppData\Local\Temporary Projects\ESC Next Level2\bin\Debug\ESC Next Level2.exe
+C:\Users\Hugo\AppData\Local\Temporary Projects\ESC Next Level2\bin\Debug\ESC Next Level2.pdb
+C:\Users\Hugo\AppData\Local\Temporary Projects\ESC Next Level2\obj\x86\Debug\MainWindow.baml
+C:\Users\Hugo\AppData\Local\Temporary Projects\ESC Next Level2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Hugo\AppData\Local\Temporary Projects\ESC Next Level2\obj\x86\Debug\App.g.cs
+C:\Users\Hugo\AppData\Local\Temporary Projects\ESC Next Level2\obj\x86\Debug\ESC Next Level2_MarkupCompile.cache
+C:\Users\Hugo\AppData\Local\Temporary Projects\ESC Next Level2\obj\x86\Debug\ESC Next Level2.g.resources
+C:\Users\Hugo\AppData\Local\Temporary Projects\ESC Next Level2\obj\x86\Debug\ESC_Next_Level2.Properties.Resources.resources
+C:\Users\Hugo\AppData\Local\Temporary Projects\ESC Next Level2\obj\x86\Debug\ESC Next Level2.csproj.GenerateResource.Cache
+C:\Users\Hugo\AppData\Local\Temporary Projects\ESC Next Level2\obj\x86\Debug\ESC Next Level2.exe
+C:\Users\Hugo\AppData\Local\Temporary Projects\ESC Next Level2\obj\x86\Debug\ESC Next Level2.pdb
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\obj\x86\Debug\ESC Next Level2.exe
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\obj\x86\Debug\ESC Next Level2.pdb
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\obj\x86\Debug\App.g.cs
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\obj\x86\Debug\ESC Next Level2_MarkupCompile.cache
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\obj\x86\Debug\ESC Next Level2.g.resources
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\obj\x86\Debug\ESC_Next_Level2.Properties.Resources.resources
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\obj\x86\Debug\ESC Next Level2.csproj.GenerateResource.Cache
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\bin\Debug\ESC Next Level2.exe
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\bin\Debug\ESC Next Level2.pdb
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\obj\x86\Debug\SecondProgressbar.baml
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\obj\x86\Debug\SecondProgressbar.g.cs
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\obj\x86\Debug\MainWindow.baml
+C:\Users\Hugo\Desktop\ESC Next Level\ESC Next Level2\ESC Next Level2\obj\x86\Debug\MainWindow.g.cs

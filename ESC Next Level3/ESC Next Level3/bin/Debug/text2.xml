@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controller xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Hughes</name>
+  <power>10</power>
+  <inputs>20</inputs>
+  <outputs>30</outputs>
+</Controller>
